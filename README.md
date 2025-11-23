@@ -9,7 +9,7 @@
 Bu projenin amacı; bilgisayar işlemcilerinin (CPU) merkezinde yer alan ve matematiksel/mantıksal işlemleri gerçekleştiren **ALU (Arithmetic Logic Unit)** biriminin çalışma prensibini anlamaktır. Öğrencilerden, **CircuitVerse** simülasyon ortamında temel mantık kapılarını (AND, OR, XOR vb.) kullanarak çalışan bir işlemci prototipi tasarlamaları ve dokümante etmeleri beklenmektedir.
 
 ### 2. Proje Tanımı ve Blok Diyagramı
-Her öğrenci, **[CircuitVerse.org](https://circuitverse.org)** platformunu kullanarak aşağıda belirtilen özelliklere sahip **4-Bitlik bir ALU** tasarlayacaktır. Devrenizde 4-bitlik veri yolları (bus) yerine, **her bir bit için ayrı ayrı** "Input" (Giriş) ve "Output" (Çıkış) bileşenleri kullanılacaktır.
+Her öğrenci, **[CircuitVerse.org/simulator](https://circuitverse.org/simulator)** platformunu kullanarak aşağıda belirtilen özelliklere sahip **4-Bitlik bir ALU** tasarlayacaktır. Devrenizde 4-bitlik veri yolları (bus) yerine, **her bir bit için ayrı ayrı** "Input" (Giriş) ve "Output" (Çıkış) bileşenleri kullanılacaktır.
 
 Devrenin genel yapısı aşağıdaki blok diyagramda gösterildiği gibi olmalıdır:
 
@@ -72,9 +72,11 @@ Teslimatlar **Ekampus** sistemi üzerinden yapılacaktır. Sisteme yüklemeniz g
 #### B) GitHub Proje Linki
 
   * Projeniz için **GitHub** üzerinde bir "Repository" (Depo) oluşturunuz.
-  * Bu reponun linkini (`https://github.com/kullaniciadi/projeadi`) Ekampus'teki ilgili alana yapıştırınız veya bir metin dosyası (.txt) içinde yükleyiniz.
+  * Bu reponun linkini (`https://github.com/kullaniciadi/projeadi`) Ekampus'teki ilgili alana yapıştırınız.
 
 ### 6\. GitHub README.md İçeriği (Proje Raporu)
+
+> GitHub reponuza `Ad_Soyad_No.cv` formatında isimlendirdiğiniz Devre Tasarım dosyasını yükleyiniz.
 
 GitHub reponuzun ana sayfasında bulunan `README.md` dosyası, **Proje Raporunuz** niteliğindedir ve Markdown formatında hazırlanmalıdır. Rapor şu başlıkları ve içerikleri **zorunlu olarak** kapsamalıdır:
 
